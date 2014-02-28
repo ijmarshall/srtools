@@ -1,0 +1,8 @@
+#
+#	paths to data and other relevant files; save as sr-tools.ini once edited
+#
+
+[Paths]
+COCHRANE_REVIEWS_PATH = /cochrane_reviews_path/
+PUBMED_ABSTRACTS_PATH = /pubmed_abstracts_path/
+PDFS_PATH = /pdfs_path/
